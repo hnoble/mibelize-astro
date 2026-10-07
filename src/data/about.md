@@ -7,10 +7,14 @@ class: page-template
 subclass: 'post page'
 ---
 
-Ghost is professional publishing platform designed for modern journalism. This is a demo site of a basic Ghost install to give you a general sense of what a new Ghost site looks like when set up for the first time.
+Mi Belize is your go-to source for the best things to eat, drink, see, and do in Belize! From hidden-gem kitchens and beachside bars to Maya ruins, jungle adventures, and island escapes, we help locals and visitors discover the best of this beautiful country.
 
-> If you'd like to set up a site like this for yourself, head over to [Ghost.org](https://ghost.org/) and start a free 14 day trial to give Ghost a try!
+Follow us for:
 
-If you're a developer: Ghost is a completely open source (MIT) Node.js application built on a JSON API with an Ember.js admin client. It works with MySQL and SQLite, and is publicly available [on Github](https://github.com/TryGhost/ghost).
+> Local food and drink spotlights, from street-side fry jacks to fine dining
+> Must-see sights, tours, and outdoor adventures
+> Events, festivals, and things happening near you
+> Giveaways, exclusive deals, and discounts from our favorite businesses
+> Photos, videos, and stories celebrating Belizean culture
 
-If you need help with using Ghost, you'll find a ton of useful articles on [our knowledgebase](https://help.ghost.org/), as well as extensive [developer documentation](https://docs.ghost.org/).
+Like us for media, giveaways, deals & more!
