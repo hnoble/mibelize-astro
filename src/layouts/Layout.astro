@@ -86,9 +86,9 @@ const bodyClass = current === 'home' ? 'home-template' : `${current || 'page'}-t
                 <section class="copyright">
                     <a href={getAssetUrl('/')}>{SITE_CONFIG.title}</a> &copy; {currentYear}
                 </section>
-                <section class="poweredby">
+             <!--    <section class="poweredby">
                     Published with <a href="https://astro.build/" target="_blank" rel="noopener">Astro</a> using a <a href="https://github.com/AntonyLeons/casper" target="_blank" rel="noopener">Casper theme</a>
-                </section>
+                </section> -->
                 <nav class="site-footer-nav">
                     <a href={getAssetUrl('/')}>Latest Posts</a>
                     {SITE_CONFIG.facebook && (
@@ -102,7 +102,7 @@ const bodyClass = current === 'home' ? 'home-template' : `${current || 'page'}-t
                     {SITE_CONFIG.github && (
                         <a href={`https://github.com/${SITE_CONFIG.github}`} target="_blank" rel="noopener">GitHub</a>
                     )}
-                    <a href="https://astro.build" target="_blank" rel="noopener">Astro</a>
+                  <!--  <a href="https://astro.build" target="_blank" rel="noopener">Astro</a> -->
                 </nav>
             </div>
         </footer>
